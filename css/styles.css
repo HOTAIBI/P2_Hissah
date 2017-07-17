@@ -1,38 +1,44 @@
 /* add your CSS here */
-h3{
-   font-size: 40px;
-   margin-bottom: 20px;
-
-
+body {
+  width: 340px;
 }
-img{
-  height:300px;
+
+h3 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+img {
+  height: 300px;
   width: 300px;
   display: block;
-   margin-left: auto;
-   margin-right: auto;
-   margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
 }
-#interstingID{
-  font-style:italic;
+
+#intersting_fact {
+  font-style: italic;
 }
-.list{
+
+.list {
   font-weight: bold;
- text-transform: capitalize;
-
+  text-transform: capitalize;
 }
-div{
-  border-width:.5px;
-  border-style:solid;
-  border-color:#D3D3D3;
-  padding: 10px 10px 10px 10px;
 
+div {
+  border-width: .5px;
+  border-style: solid;
+  border-color: #D3D3D3;
+  padding: 10px;
 }
+
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
-#masterdiv{
+#masterdiv {
   margin: 30px 30px 30px 30px;
-   box-shadow: 10px 10px 5px #D3D3D3;
+  box-shadow: 10px 10px 5px #D3D3D3;
 }
